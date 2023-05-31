@@ -1,0 +1,4 @@
+[ 2023-05-31 22:36:22,228 ] 186 werkzeug - WARNING -  * Debugger is active!
+[ 2023-05-31 22:36:22,241 ] 186 werkzeug - INFO -  * Debugger PIN: 749-239-525
+[ 2023-05-31 22:36:28,084 ] 15 root - INFO - ERROR occured in python script name [D:\Machine_Learning_Project\End_To_End_ML_Deployment\ML_Project_Pipeline\app.py] line number [11] error message [We are testing our custom file]
+[ 2023-05-31 22:36:28,087 ] 186 werkzeug - INFO - 127.0.0.1 - - [31/May/2023 22:36:28] "GET / HTTP/1.1" 200 -

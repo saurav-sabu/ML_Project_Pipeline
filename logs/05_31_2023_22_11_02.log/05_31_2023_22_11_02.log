@@ -1,0 +1,6 @@
+[ 2023-05-31 22:11:02,524 ] 186 werkzeug - WARNING -  * Debugger is active!
+[ 2023-05-31 22:11:02,566 ] 186 werkzeug - INFO -  * Debugger PIN: 749-239-525
+[ 2023-05-31 22:11:30,996 ] 8 root - INFO - Successfully displayed the message
+[ 2023-05-31 22:11:30,997 ] 186 werkzeug - INFO - 127.0.0.1 - - [31/May/2023 22:11:30] "GET / HTTP/1.1" 200 -
+[ 2023-05-31 22:11:31,356 ] 186 werkzeug - INFO - 127.0.0.1 - - [31/May/2023 22:11:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-05-31 22:25:16,448 ] 186 werkzeug - INFO -  * Detected change in 'D:\\Machine_Learning_Project\\End_To_End_ML_Deployment\\ML_Project_Pipeline\\src\\exception.py', reloading
